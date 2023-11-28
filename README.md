@@ -1,6 +1,6 @@
 # Procedure to start the project
 
-Step 1: Npm i
+Step 1: Npm i <br>
 Step 2: Npm run start:dev <!-- "start:dev": "concurrently \"npm start\" \"npm run json-server\"", -->
 
 Important Information:
